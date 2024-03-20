@@ -6,5 +6,5 @@ export const MainLayout = () => {
       MainLayout
     </div>
   );
-  
+
 };
